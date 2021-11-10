@@ -1,3 +1,7 @@
+# 我的博客分类汇总
+
+![mai](https://user-images.githubusercontent.com/44922160/139567960-7116a932-96af-4f85-951a-8c6458c02aeb.gif)
+
 ## C/C++
 
 [C语言hackerrank的一些练习](https://orzlinux.cn/blog/hackerrankC.html)
