@@ -128,7 +128,7 @@
 
 [操作系统交换空间机制和策略](https://orzlinux.cn/blog/swapspace.html)
 
-[操作系统虚拟内存发展史](https://orzlinux.cn/blog/virtualmemory.html)https://orzlinux.cn/blog/linux_notes.html)
+[操作系统虚拟内存发展史](https://orzlinux.cn/blog/virtualmemory.html)
 
 ## 数据库
 
